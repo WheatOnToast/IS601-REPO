@@ -5,6 +5,7 @@ def my_datetime(DateTime):
 
 def saturdays():
     list_of_saturdays = []
+    
     start_date = date(datetime.now().year, datetime.now().month, datetime.now().day)
     end_date = date(start_date.year + 1, 1, 1)
 
