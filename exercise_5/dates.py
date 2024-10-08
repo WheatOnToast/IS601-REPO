@@ -24,3 +24,4 @@ def first_or_fifteenth(DateTime):
         return True
     else:
         return False
+
